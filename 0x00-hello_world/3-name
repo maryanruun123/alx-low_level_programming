@@ -1,2 +1,2 @@
 #!/bin/bash
-gcc $CEILE
+gcc $CEILE -o cisfun
